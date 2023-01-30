@@ -1,0 +1,1101 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "pGwhdMlX4N9c_szDGzU7SS5DSlk",
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "RjZgHDBwxD5iNkoMNexNVkqO0YE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "-rr-AOreXQU"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T08:54:12Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[앵콜캠4K] 뉴진스 'Ditto' 인기가요 1위 앵콜 직캠 (NewJeans Encore Fancam) | @SBS Inkigayo 230129",
+        "description": "[앵콜캠4K] 뉴진스 'Ditto' 인기가요 1위 앵콜 직캠 (NewJeans Encore Fancam) | @SBS Inkigayo 230129\n\n#인기가요1위 #앵콜캠 #뉴진스 #Ditto\n---------------------------------------------------------------------------------------—\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-rr-AOreXQU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-rr-AOreXQU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-rr-AOreXQU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-rr-AOreXQU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-rr-AOreXQU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T08:54:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "u5wZf9YjyHXX7WtY_WuzFvHwBWQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jUmeh5yvy0M"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T11:03:36Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "NewJeans(뉴진스) - OMG @인기가요 inkigayo 20230129",
+        "description": "NewJeans - OMG #SBSInkigayo_EP1168\n뉴진스 - OMG #NewJeans #OMG\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jUmeh5yvy0M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jUmeh5yvy0M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jUmeh5yvy0M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jUmeh5yvy0M/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jUmeh5yvy0M/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T11:03:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cAsc2LM2GzYiVB0__YFlPpKO1wI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tLC7zwC_Ls4"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-22T08:41:06Z",
+        "channelId": "UC3m0s5XAQydCtbLHc8j1Uog",
+        "title": "[OH뭐지🎧] 청량함에 Attention 할 수밖에 없는 다섯소녀🐰 뉴진스(NewJeans) 노래모음🍭ㅣKBS 방송",
+        "description": "청량+청순+풋풋=뉴진스💙\n모두 눈정화하라구👀✨\n\n#뮤직뱅크 #MusicBank #뉴진스 #NewJeans #KBS\n\n🎵뉴진스(NewJeans) PLAYLIST🎵\n00:00 Attention\n03:48 Hype boy\n06:54 Hurt\n\n⭐Edited By. 한세희⭐",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tLC7zwC_Ls4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS 한국방송",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-22T08:41:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oNPJGnEOlUpGN1TVFLtJWoqsN5U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VVP88OUrc3s"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T08:39:41Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[안방1열 풀캠4K] 투모로우바이투게더 'INTRO+Sugar Rush Ride' (TXT FullCam)│@SBS Inkigayo 230129",
+        "description": "[안방1열 풀캠4K] 투모로우바이투게더 'INTRO+Sugar Rush Ride' (TXT FullCam)│@SBS Inkigayo 230129\n\n#인기가요 #투모로우바이투게더 #SugarRushRide\n--------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VVP88OUrc3s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VVP88OUrc3s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VVP88OUrc3s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VVP88OUrc3s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VVP88OUrc3s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T08:39:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CBHCbr-vmCf9MJ9TQP_ue-cabkw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xQMgDILB45Y"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T08:28:48Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[안방1열 풀캠4K] 엑스지 'SHOOTING STAR' (XG FullCam)│@SBS Inkigayo 230129",
+        "description": "[안방1열 풀캠4K] 엑스지 'SHOOTING STAR' (XG FullCam)│@SBS Inkigayo 230129\n\n#인기가요 #XG #SHOOTINGSTAR\n--------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xQMgDILB45Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xQMgDILB45Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xQMgDILB45Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xQMgDILB45Y/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xQMgDILB45Y/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T08:28:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "A5jOhYOvFP_pVfujr_8rYv5H2jo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "C6_jQyNJyiM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-30T07:50:25Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[BOYS PLANET/1회 선공개] '실망시켜 드릴 일은 없습니다' 믿고 보는 실력파 소속사 연습생의 등장! | 이번주 목요일 저녁 8시 첫.방.송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f\n\n▶ NAVER TV : https://tv.naver.com/cjenm.boysplanet\n▶ YouTube : https://www.youtube.com/Mnet\n\n더 많은 정보는 Mnet Plus(www.boysplanet.net)에서 확인하세요!\n\n〈BOYS PLANET〉\n2023. 02. 02 (Thu) 8PM (KST) 첫방송\n\n#boysplanet #보이즈 플래닛 #Mnet\n\n==\n[Ep.01/Pre-Release] No doubt about trainees from this agency!\n\nMore information ▶Mnet Plus(www.boysplanet.net)\n\n〈BOYS PLANET〉\n2023. 02. 02 (Thu) 8PM (KST) Premiere\n\n#티빙에서스트리밍",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C6_jQyNJyiM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C6_jQyNJyiM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C6_jQyNJyiM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C6_jQyNJyiM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C6_jQyNJyiM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-30T07:50:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gigpodU0LTXgVAOGkdppxRC7g0I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cJ0WobKRPT8"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T11:59:58Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "[BE ORIGINAL] TXT (투모로우바이투게더) 'Sugar Rush Ride' (4K)",
+        "description": "[BE ORIGINAL] TOMORROW X TOGETHER 'Sugar Rush Ride'\n[비 오리지널] 투모로우바이투게더 'Sugar Rush Ride'\n\nTXT 퍼포 보고 그냥 숨을 멈췄어ㅇ(-(\n(2:22) 모아들 이리 와서 더 같이 놀자 더💙\n\n#TXT #투모로우바이투게더 #BEORIGINAL\n\nStream various performance video on #STUDIOCHOOM!\n\n👉SUBSCRIBE👈\nYouTube: https://www.youtube.com/STUDIOCHOOM\nFacebook:  https://www.facebook.com/StudioCHOOM\nInstagram: https://www.instagram.com/studio_choom/\nNaver TV: https://tv.naver.com/cjenm.STUDIOCHOOM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cJ0WobKRPT8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cJ0WobKRPT8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cJ0WobKRPT8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/cJ0WobKRPT8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/cJ0WobKRPT8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T11:59:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GuD4ru7tERxRBUed_O34f1E45Es",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6PEAbwgPZVY"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-02T06:58:54Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "[#2022MAMA] NewJeans (뉴진스) | All Moments",
+        "description": "[#2022MAMA] NewJeans (뉴진스) | All Moments\n\nWorld’s No.1 K-POP Awards\n2022 MAMA AWARDS\n\n#MAMAAWARDS #2022MAMAAWARDS #NewJeans \n\n▶ Mnet 유튜브 구독하기: http://www.youtube.com/subscription_center?add_user=Mnet\n\nLike Facebook and Twitter for more k-pop news\nhttps://facebook.com/MnetOfficial\nhttps://facebook.com/MCOUNTDOWN\nhttps://twitter.com/MnetKR",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6PEAbwgPZVY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6PEAbwgPZVY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6PEAbwgPZVY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6PEAbwgPZVY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6PEAbwgPZVY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-02T06:58:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r5rNGtFKSEMBldzRlsrKljpY2Q0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vh12849alNc"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-08T07:30:55Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "[안방1열 풀캠4K] MC 스페셜 '아무노래(지코)' (MC Special Stage 'Any song (ZICO)' FullCam)│@SBS Inkigayo 230108",
+        "description": "[안방1열 풀캠4K] MC 스페셜 '아무노래(지코)' (MC Special Stage 'Any song (ZICO)' FullCam)│@SBS Inkigayo 230108\n\n#인기가요 #MC스페셜 #아무노래 \n--------------------------------------------------------------------------------------\n\n☞ MORE ＂SBS KPOP＂\n\nTwitter : https://twitter.com/kpop_sbs\nFacebook : https://www.facebook.com/sbskpop\nInstagram : https://instagram.com/sbskpop_official",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vh12849alNc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vh12849alNc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vh12849alNc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vh12849alNc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vh12849alNc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-08T07:30:55Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BVTd3H3Yp9U6asHYN2uYEiCb3mo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9fCfnZdCt-k"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T11:06:25Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "TXT(투모로우바이투게더) - Devil By The Window(자정의 창가에서 만난 악마의 목소리는 달콤했다) @인기가요 inkigayo 20230129",
+        "description": "TXT - Devil By The Window #SBSInkigayo_EP1168\n투모로우바이투게더 - 자정의 창가에서 만난 악마의 목소리는 달콤했다 #TOMORROW_X_TOGETHER #TXT #DevilByTheWindow\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9fCfnZdCt-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9fCfnZdCt-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9fCfnZdCt-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9fCfnZdCt-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9fCfnZdCt-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T11:06:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "SIcp6cBLnG20mcqxDULzMUWzmbQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pXV-dJfu8JI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-07T11:52:56Z",
+        "channelId": "UCesY-UN9tgibpFJ-lw3y_1A",
+        "title": "[제37회 골든디스크] NewJeans - 'Opening + Attention (Golden Disc ver.) + Hype Boy + OMG' ♪｜JTBC 230107 방송",
+        "description": "■ 제37회 골든디스크어워즈 with 틱톡\nNewJeans - 'Opening + Attention (Golden Disc ver.) + Hype Boy + OMG' ♪\n#제37회골든디스크어워즈 #NewJeans #무대",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pXV-dJfu8JI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pXV-dJfu8JI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pXV-dJfu8JI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pXV-dJfu8JI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pXV-dJfu8JI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KPOP JAMM",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-07T11:52:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-mrWlfTL6DQadzhZ8nb_Eih4sMc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pxWFho99iCY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T11:03:00Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "Lee Seung Yoon(이승윤) - Shelter Of Dreams(꿈의 거처) @인기가요 inkigayo 20230129",
+        "description": "Lee Seung Yoon - Shelter Of Dreams #SBSInkigayo_EP1168\n이승윤 - 꿈의 거처 #LeeSeungYoon #Shelter_Of_Dreams\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pxWFho99iCY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pxWFho99iCY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pxWFho99iCY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pxWFho99iCY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pxWFho99iCY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T11:03:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xDUwTdmzp0UH8GihY25KIjJhFN0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vLFA_N5fCoQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T11:01:12Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "cignature(시그니처) - AURORA(오로라) @인기가요 inkigayo 20230129",
+        "description": "cignature - AURORA #SBSInkigayo_EP1168\n시그니처 - 오로라 #cignature #AURORA\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vLFA_N5fCoQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vLFA_N5fCoQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vLFA_N5fCoQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vLFA_N5fCoQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vLFA_N5fCoQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T11:01:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6W08B8fV5_MK6BYEm2r31vjwr-w",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HJECdmctLe0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-24T16:10:16Z",
+        "channelId": "UCErz7bZGV3erhJUmj-92x2w",
+        "title": "2022 AKARAKA 아카라카 뉴진스 New Jeans Full? ver. 민지야 사랑해....Attention, Cookie, Hurt, Hype boy ✨VIP 1열시점✨",
+        "description": "뉴진스 추측 두둥등장\nAttention\n아카라카(연세대학교 구호) \n아카라카 2배속 ver\n아카라카 0.5배속 ver\nCookie\nHurt\nHype boy \n\n타임라인은 내일 달게요... 졸리다 Zzzzzz",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HJECdmctLe0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HJECdmctLe0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HJECdmctLe0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HJECdmctLe0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HJECdmctLe0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "옌돌핀 yendorphin",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-24T16:10:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5U471iVWkHgclzTmFDGFs4ivfuA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9B5jL8xN4m8"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-20T12:56:20Z",
+        "channelId": "UC4sFt_VsM0zEO-6Pg5oCwxw",
+        "title": "220920 IVE (아이브) - Eleven / After Like / Royal / Love Dive / 영남대학교 축제 직캠 (Fullcam) #ive #아이브",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9B5jL8xN4m8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9B5jL8xN4m8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9B5jL8xN4m8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/9B5jL8xN4m8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/9B5jL8xN4m8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Lunatic Soul",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-20T12:56:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TmNQiC7lykySuDCwEoH3iukG3p4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Mn5ZzRZ9yto"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T08:03:58Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)",
+        "description": "[Making Jeans] NewJeans (뉴진스) 'Ditto' & 'OMG' Recording Behind(Final)\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mn5ZzRZ9yto/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T08:03:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Y3TDyrInwZW8RbB2aVevwNO_lJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "caxKgV0KyQE"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-19T04:23:58Z",
+        "channelId": "UCgZlBRLRB1-0l-qL9BkecLQ",
+        "title": "[여기서요?] 뉴진스 NewJeans - OMG (A Team ver.) | 커버댄스 Dance Cover @동성로",
+        "description": "ARTBEAT DANCE VIDEO\n\n🆎 멤버십에 가입해 ARTBEAT를 후원해 주세요!!\nhttps://www.youtube.com/channel/UCgZlBRLRB1-0l-qL9BkecLQ/join\n🆎 Please support ARTBEAT by joining a channel membership!!\n\n\n0:00 인트로\n0:53 'OMG' 커버댄스\n\n\nMusic : 뉴진스 (NewJeans) - OMG\n\nDance Team : AB PROJECT\n\nDancers :\n해린 HAERIN - 세영 SeYoung (IG : @seyoung__0203)\n혜인 HYEIN - 유진 YooJin (IG : @yj_2.29)\n다니엘 DANIELLE - 하은 HaEun (IG : @_undereun)\n민지 MINJI - 유빈 YuBin (IG : @yub__ni)\n하니 HANNI - 가은 GaEun (IG : @gaeun_0007)\n\n\nCamera / Edit : ARTBEAT (IG : @artbeat.movie)\n\n\n✉️Business Contact : artbeat.biz@gmail.com\n\n📦우편, 소포 보내시는 곳\n대구시 남구 봉덕동 486-20, 201호 ARTBEAT\n받는사람이름, 070-4146-8383\n\nGirlGroup ARTBEAT Twitter : https://twitter.com/ARTBEAT_gg\nARTBEAT Twitter : https://twitter.com/WE_ARTBEAT\nARTBEAT Instagram : https://www.instagram.com/artbeat.movie\nARTBEAT Tiktok : http://www.tiktok.com/@artbeat.official\n\n\n#ABPROJECT #여기서요 #OMG #뉴진스 #NewJeans",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/caxKgV0KyQE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/caxKgV0KyQE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/caxKgV0KyQE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/caxKgV0KyQE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/caxKgV0KyQE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ARTBEAT",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-19T04:23:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sfIcgLC2RQLEpdwlZWNFwwzSwIM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZlyE2fEpsd8"
+      },
+      "snippet": {
+        "publishedAt": "2022-12-21T09:11:26Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "NewJeans (뉴진스) 'Ditto' 응원법",
+        "description": "NewJeans (뉴진스) 'Ditto' 응원법\n\nⓒ 2022 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 #응원법\n#NewJeans_OMG #NewJeans_Ditto\n#NewJeans_of_Winter",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZlyE2fEpsd8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZlyE2fEpsd8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZlyE2fEpsd8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZlyE2fEpsd8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZlyE2fEpsd8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-12-21T09:11:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oMlpqDRyo9eXf6IEd_zqBxEbp8U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "OGLa8LbgkMI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T11:07:59Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "TXT(투모로우바이투게더) - Sugar Rush Ride @인기가요 inkigayo 20230129",
+        "description": "TXT - Sugar Rush Ride #SBSInkigayo_EP1168\n투모로우바이투게더 - Sugar Rush Ride #TOMORROW_X_TOGETHER #TXT #SugarRushRide\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/OGLa8LbgkMI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/OGLa8LbgkMI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/OGLa8LbgkMI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/OGLa8LbgkMI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/OGLa8LbgkMI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T11:07:59Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fI9rlfr_iMlWnri03hkdgDe8iWE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EOQPFo847nI"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-29T11:11:12Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "MONSTA X(몬스타엑스) - Beautiful Liar @인기가요 inkigayo 20230129",
+        "description": "MONSTA X - Beautiful Liar #SBSInkigayo_EP1168\n몬스타엑스 - Beautiful Liar #MONSTA_X #BeautifulLiar\n\nSBS Inkigayo(인기가요) is a Korean music program broadcast by SBS. \n\nThe show features some of K-pop artists’ performance every Sunday.\nCheck out this week’s Inkigayo Line up and meet your favorite artist!\n🔗bit.ly/3epKoUp",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EOQPFo847nI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EOQPFo847nI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EOQPFo847nI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EOQPFo847nI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EOQPFo847nI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-29T11:11:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kkmFZUkToCtX-UZiTjr6issDEN8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "mQ4oxIhiwZ0"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T04:28:07Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[얼빡직캠 4K] 뉴진스 해린 'OMG'(NewJeans HAERIN Facecam) @뮤직뱅크(Music Bank) 230127",
+        "description": "#NewJeans_HAERIN #OMG #얼빡직캠\n\nMore from #KBSKPOP\n\nTwitter: https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mQ4oxIhiwZ0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mQ4oxIhiwZ0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mQ4oxIhiwZ0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/mQ4oxIhiwZ0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/mQ4oxIhiwZ0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T04:28:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ibyDhR-UcxOk-2Y2ZMIuG5FY-qY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bTfMp582l34"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-03T03:04:10Z",
+        "channelId": "UCMki_UkHb4qSc0qyEcOHHJw",
+        "title": "NewJeans (뉴진스) 'OMG' 응원법",
+        "description": "NewJeans (뉴진스) 'OMG' 응원법\n\nⓒ 2023 ADOR. All Rights Reserved.\n\nConnect with NewJeans\n\nPHONING https://phoning.onelink.me/KG15/n7452q87  \nOFFICIAL YOUTUBE https://www.youtube.com/c/NewJeans_official\nOFFICIAL WEBSITE https://newjeans.kr\nOFFICIAL INSTAGRAM https://www.instagram.com/newjeans_official\nOFFICIAL TWITTER https://twitter.com/NewJeans_ADOR\nOFFICIAL TIKTOK https://www.tiktok.com/@newjeans_official\nOFFICIAL JAPAN TWITTER https://twitter.com/@NewJeans_jp\nOFFICIAL WEIBO  https://weibo.com/NewJeansADOR\nOFFICIAL BILIBILI https://space.bilibili.com/3493092783032940\n\n#NewJeans #뉴진스 #응원법\n#NewJeans_OMG #NewJeans_Ditto\n##Year_of_NewJeans",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bTfMp582l34/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bTfMp582l34/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bTfMp582l34/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bTfMp582l34/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bTfMp582l34/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NewJeans",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-03T03:04:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "GUxPqgY0xXRtBZs1KTvvK5o4ogc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6bVUjsUi9sw"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-27T09:39:12Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230127 방송",
+        "description": "OMG - 뉴진스(NewJeans)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#OMG #가요 #가수 #음악 #케이팝 #뉴진스 #NewJeans #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/6bVUjsUi9sw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-27T09:39:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2xDxQVlfxCiUJeK6FnEG8ghk3Ts",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EQUHbbNVghM"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-28T04:32:16Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "[얼빡직캠 4K] 뉴진스 하니 'OMG'(NewJeans HANNI Facecam)",
+        "description": "#NewJeans_HANNI #OMG #얼빡직캠\n\nMore from #KBSKPOP\n\nTwitter: https://twitter.com/StudioK_twt\nInstagram: https://www.instagram.com/kbs_kpop_official/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EQUHbbNVghM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EQUHbbNVghM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EQUHbbNVghM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EQUHbbNVghM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EQUHbbNVghM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-28T04:32:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "l0eMEW6eeFU_-NWFE_iFs1xepGs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "X8jjlicVUyY"
+      },
+      "snippet": {
+        "publishedAt": "2023-01-20T12:25:46Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "OMG - 뉴진스(NewJeans) [뮤직뱅크/Music Bank] | KBS 230120 방송",
+        "description": "OMG - 뉴진스(NewJeans)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 10분에 방송됩니다.\n\n#OMG #가요 #가수 #음악 #케이팝 #뉴진스 #NewJeans #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X8jjlicVUyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-01-20T12:25:46Z"
+      }
+    }
+  ]
+}
