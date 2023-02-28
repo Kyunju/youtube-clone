@@ -1,5 +1,6 @@
 import React from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import VideoCardList from '../components/VideoCardList';
 
 export default function Videos() {
   const { searchName } = useParams();
@@ -11,6 +12,7 @@ export default function Videos() {
   return (
     <div>
       <p>Videos {searchName}</p>
+      <VideoCardList />
       <button onClick={handleClick}>see video</button>
     </div>
   );
