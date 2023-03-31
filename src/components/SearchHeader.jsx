@@ -1,9 +1,10 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
-import { IoLogoYoutube } from 'react-icons/io';
+import { Link, useNavigate, useParams } from 'react-router-dom';
+import { BsYoutube, BsSearch } from 'react-icons/bs';
 
 export default function SearchHeader() {
+  const { keyword } = useParams();
   const [text, setText] = useState('');
   const navigate = useNavigate();
   const handleChange = (e) => {
@@ -11,16 +12,19 @@ export default function SearchHeader() {
   };
   const handleSubmit = (e) => {
     e.preventDefault();
-    setText('');
     navigate(`/videos/${text}`);
+    setText('');
   };
+  useEffect(() => setText(keyword || ''), [keyword]);
 
   return (
     // Youtube logo
-    <section className='flex justify-center items-center'>
+    <header className='flex justify-center items-center'>
       <div className='flex flex-row items-center'>
-        <IoLogoYoutube className='text-[#ff0000] text-2xl' />
-        <span className='ml-2 text-lg font-semibold text-white'>Youtube</span>
+        <Link to='/'>
+          <BsYoutube className='text-[#ff0000] text-2xl' />
+          <h1 className='ml-2 text-lg font-semibold text-white'>Youtube</h1>
+        </Link>
       </div>
 
       {/* 입력폼 */}
@@ -32,7 +36,10 @@ export default function SearchHeader() {
           value={text}
           onChange={handleChange}
         />
+        <button>
+          <BsSearch />
+        </button>
       </form>
-    </section>
+    </header>
   );
 }

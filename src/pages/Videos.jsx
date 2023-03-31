@@ -3,15 +3,15 @@ import { useParams, useNavigate } from 'react-router-dom';
 import VideoCardList from '../components/VideoCardList';
 
 export default function Videos() {
-  const { searchName } = useParams();
+  const { keyword } = useParams();
   const navigate = useNavigate();
   const handleClick = () => {
     navigate('/videos/watch/test01');
   };
-  console.log(searchName);
+  console.log(keyword);
   return (
-    <div>
-      <p>Videos {searchName}</p>
+    <div className='text-white'>
+      <p>Videos {keyword ? `🔍${keyword}` : '🔥hotTrend'}</p>
       <VideoCardList />
       <button onClick={handleClick}>see video</button>
     </div>
