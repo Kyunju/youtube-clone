@@ -3,7 +3,7 @@ import SearchHeader from './components/SearchHeader';
 
 function App() {
   return (
-    <div className='bg-neutral-800'>
+    <div>
       <SearchHeader />
       <Outlet />
     </div>

@@ -8,9 +8,9 @@ export default function Videos() {
   const handleClick = () => {
     navigate('/videos/watch/test01');
   };
-  console.log(keyword);
+
   return (
-    <div className='text-white'>
+    <div>
       <p>Videos {keyword ? `🔍${keyword}` : '🔥hotTrend'}</p>
       <VideoCardList />
       <button onClick={handleClick}>see video</button>

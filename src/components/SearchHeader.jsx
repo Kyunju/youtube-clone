@@ -19,24 +19,23 @@ export default function SearchHeader() {
 
   return (
     // Youtube logo
-    <header className='flex justify-center items-center'>
-      <div className='flex flex-row items-center'>
-        <Link to='/'>
-          <BsYoutube className='text-[#ff0000] text-2xl' />
-          <h1 className='ml-2 text-lg font-semibold text-white'>Youtube</h1>
-        </Link>
-      </div>
+    <header className='w-full flex p-4 text-2xl border-b border-zinc-600'>
+      {/* youtube log & search-bar */}
+      <Link to='/' className='flex items-center'>
+        <BsYoutube className='text-4xl text-brand' />
+        <h1 className='font-bold ml-2 text-3xl'>Youtube</h1>
+      </Link>
 
       {/* 입력폼 */}
-      <form onSubmit={handleSubmit}>
+      <form onSubmit={handleSubmit} className='w-full flex justify-center'>
         <input
           type='text'
           placeholder='Search: '
-          className='border-solid border-2 border-gray-100 rounded-md w-96 outline-none'
+          className='w-7/12 p-2 outline-none bg-black text-gray-500'
           value={text}
           onChange={handleChange}
         />
-        <button>
+        <button className='bg-zinc-600 px-4'>
           <BsSearch />
         </button>
       </form>
