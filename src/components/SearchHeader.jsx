@@ -18,7 +18,7 @@ export default function SearchHeader() {
   useEffect(() => setText(keyword || ''), [keyword]);
 
   return (
-    // Youtube logo
+    // 상단 고정 부분
     <header className='w-full flex p-4 text-2xl border-b border-zinc-600'>
       {/* youtube log & search-bar */}
       <Link to='/' className='flex items-center'>
