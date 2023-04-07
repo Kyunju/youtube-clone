@@ -1,35 +1,31 @@
-import React, { useEffect, useState } from 'react';
+import React from 'react';
 import { useParams } from 'react-router-dom';
+import { useQuery } from '@tanstack/react-query';
+import VideoCard from '../components/VideoCard';
 
 export default function Videos() {
-  const [videoList, setVideoList] = useState([]);
   const { keyword } = useParams();
-  useEffect(() => {
-    loadVideos('/data/popular.json').then((item) =>
-      setVideoList(item.map((video) => video.snippet.title))
-    );
-  }, []);
-  console.log(videoList);
+  const {
+    isLoading,
+    error,
+    data: videos,
+  } = useQuery(['videos', keyword], async () => {
+    return fetch(`/data/${keyword ? 'search' : 'popular'}.json`)
+      .then((res) => res.json())
+      .then((data) => data.items);
+  });
   return (
-    <div>
-      <p>Videos {keyword ? `🔍${keyword}` : '🔥hotTrend'}</p>
-      <ul>
-        {videoList.map((video) => {
-          return <li>{video}</li>;
-        })}
-      </ul>
-    </div>
+    <>
+      <div>Videos {keyword ? `🔍${keyword}` : '🔥hotTrend'}</div>
+      {isLoading && <p>Loading..🔍</p>}
+      {error && <p>Something is wrong ❌</p>}
+      {videos && (
+        <ul>
+          {videos.map((video) => (
+            <VideoCard key={video.id} video={video} />
+          ))}
+        </ul>
+      )}
+    </>
   );
 }
-
-const loadVideos = (url) => {
-  return fetch(url)
-    .then((response) => response.json())
-    .then((data) => data.items);
-};
-
-const getPopularVideo = () => {
-  return loadVideos('/data/popular.json').then((item) =>
-    item.map((video) => video.snippet.title)
-  );
-};
