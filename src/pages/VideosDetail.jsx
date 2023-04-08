@@ -2,6 +2,6 @@ import React from 'react';
 import { useParams } from 'react-router-dom';
 
 export default function VideosDetail() {
-  const { videoID } = useParams();
-  return <div>VideosDetail {videoID}</div>;
+  const { videoId } = useParams();
+  return <div>VideosDetail {videoId}</div>;
 }
