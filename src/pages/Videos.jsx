@@ -11,9 +11,9 @@ export default function Videos() {
     error,
     data: videos,
   } = useQuery(['videos', keyword], async () => {
-    return fetch(`/data/${keyword ? 'search' : 'popular'}.json`)
-      .then((res) => res.json())
-      .then((data) => data.items);
+    return axios
+      .get(`/data/${keyword ? 'search' : 'popular'}.json`)
+      .then((res) => res.data.items);
   });
   return (
     <>
